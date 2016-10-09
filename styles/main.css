@@ -1,11 +1,12 @@
 body {
-  background: #a58245;
+  background: #999;
   font-family: helvetica;
   margin: 25px;
 }
 
 h1, h2, h3 {
-  background: #555;
+  background: #111;
+  color: white;
   padding: 15px;
   margin: 0;
 
